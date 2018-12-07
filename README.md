@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img src="https://rawgit.com/hezhongfeng/library-manager/master/images/icons/mipmap-xxxhdpi/ic_launcher.png">
+    <img src="https://cdn.jsdelivr.net/gh/hezhongfeng/library-manager/images/icons/mipmap-xxxhdpi/ic_launcher.png">
   </a>
 </p>
 # library-manager
